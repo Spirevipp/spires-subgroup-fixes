@@ -1,0 +1,26 @@
+{
+	"author": "Spirevipp",
+	"description": "Moves items from mods to their own subgroup and sorts them",
+	"factorio_version": "1.1",
+	"homepage": "https://github.com/Spirevipp/spires-subgroup-fixes",
+	"name": "spires-subgroup-fixes",
+	"title": "Spirevipp's subgroup fixes",
+	"version": "0.1.0",
+	"dependencies": [
+		"base >= 1.1",
+		"? miniloader",
+		"? SchallCircuitGroup",
+		"? space-exploration",
+		"? aai-containers",
+		"? FluidMustFlow",
+		"? Dectorio"
+	],
+	"package": {
+		"git_publish_branch": "main",
+		"ignore": [],
+		"scripts": {},
+		"no_git_push": true,
+		"no_git_tag": true,
+		"no_portal_upload": true
+	}
+}
