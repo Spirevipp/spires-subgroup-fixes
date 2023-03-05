@@ -13,7 +13,8 @@
 		"? space-exploration",
 		"? aai-containers",
 		"? FluidMustFlow",
-		"? Dectorio"
+		"? Dectorio",
+		"? Krastorio2"
 	],
 	"package": {
 		"git_publish_branch": "main",
